@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+<launch>
+  <param name="face_cascade_name" value="$(find lookat)/config/haarcascade_frontalface_alt.xml" />
+  <node pkg="lookat" type="lookat" name="lookat" output="screen"/>
+</launch>

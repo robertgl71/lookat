@@ -1,4 +1,4 @@
-# lookat
+# lookat(percepció)
 1. $ cd ~/catkin_ws/src
 2. $ catkin_create_pkg lookat std_msgs geometry_msgs rospy roscpp
 3. Cloneu el repo dins el nou package
